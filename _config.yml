@@ -15,7 +15,7 @@ show_title: true             # always keep the site title visible
 
 # Styling
 
-dark_header: true            # always keep the header dark
+dark_header: false           # always keep the header dark
 minimal: false               # use simpler style
 
 # Menu
@@ -25,7 +25,7 @@ navigation:
   - {file: "README.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-    - {title: Mail, icon: envelope, url: "mailto:johngargalionis@gmail.com"}
+    #- {title: Mail, icon: envelope, url: "mailto:johngargalionis@gmail.com"}
     #- {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
     #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
