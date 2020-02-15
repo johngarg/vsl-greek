@@ -10,8 +10,8 @@ date_format: "%B %d, %Y"
 sidebar: true                # show a sidebar instead of the usual header
 show_excerpts: false         # show article excerpts on the home page
 show_related: false          # show the previous and next links after every post
-show_description: false      # show the site description in the sidebar
-show_title: true             # always keep the site title visible
+show_description: true       # show the site description in the sidebar
+show_title: false            # always keep the site title visible
 
 # Styling
 
