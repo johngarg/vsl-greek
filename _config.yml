@@ -11,7 +11,7 @@ sidebar: false               # show a sidebar instead of the usual header
 show_excerpts: false         # show article excerpts on the home page
 show_related: false          # show the previous and next links after every post
 show_description: true       # show the site description in the sidebar
-show_title: false            # always keep the site title visible
+show_title: true             # always keep the site title visible
 
 # Styling
 
@@ -21,8 +21,8 @@ minimal: false               # use simpler style
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+  - {file: "index.html", icon: home}            # posts
+  - {file: "about.md", icon: address-card}      # about
 
 external:                    # see http://fontawesome.com/icons
     #- {title: Mail, icon: envelope, url: "mailto:johngargalionis@gmail.com"}
