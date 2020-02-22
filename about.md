@@ -6,6 +6,8 @@ layout: page
 
 ## VCE Greek information
 
+My email is `johngargalionis(at)gmail(dot)com`, please email me if you have any questions during the week.
+
 Information for the VCE Greek syllabus can be found on the [VCAA
 website](https://www.vcaa.vic.edu.au/assessment/vce-assessment/past-examinations/Pages/Greek.aspx).
 I would recommend looking through the study design and some past exams.
@@ -13,14 +15,23 @@ I would recommend looking through the study design and some past exams.
 The [little blue
 book](http://www.greek-language.gr/greekLang/files/document/modern_greek/grammatiki.triantafyllidi.pdf)
 of Greek grammar by Τριανταφυλλίδης is available for free online. This has
-historically been *the* Modern Greek reference grammar. I've taken the grammar
-you're expected to know for the exam and compiled it into a table below. I've
-referenced the pages in the online version of the little blue book, and also
-other online resources relevant to the inflectional model.
+historically been *the* Modern Greek reference grammar[^1]. I've taken the
+grammar you're expected to know for the exam and compiled it into a table below.
+I've referenced the pages in the online version of the little blue book, and
+also other online resources relevant to the inflectional model.
 
 # Grammar reference
 
+As I mentioned in class,
+[Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) is a powerful
+resource for learning and exploring Greek grammar. In the following tables, I've
+linked each paradigm word to the Wiktionary page. At the bottom of the page, you
+can explore the class of words that are inflected according to the same
+inflectional model.
+
 ## Nouns 
+
+An exhaustive list of all Greek noun categories can be found [here](https://en.wiktionary.org/wiki/Category:Greek_nouns_by_inflection_type).
 
 | Inflectional model                                                                                                                                                                                                                                               | Τριανταφυλλίδης               | Notes                    |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------|:-------------------------|
@@ -78,3 +89,10 @@ other online resources relevant to the inflectional model.
 | [ακούω](https://en.wiktionary.org/wiki/ακούω#Greek)     | 246 (pg. 172)                   | Contracted verbs                                    |
 | [γίνομαι](https://en.wiktionary.org/wiki/γίνομαι#Greek) |                                 | Deponent (passive in form, active in meaning)       |
 | [θυμάμαι](https://en.wiktionary.org/wiki/θυμάμαι#Greek) |                                 | Deponent                                            |
+
+---
+
+[^1]: There are arguments to be made that it doesn't accurately represent the
+    Standard Modern Greek of today because of its age. I'm sympathetic to these
+    arguments, so where I feel the book departs from current idiom I've not
+    referenced the inflectional model in the table.
