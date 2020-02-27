@@ -2,8 +2,6 @@
 title: "Ρεμπέτικα"
 categories: culture
 layout: post
-geometry: margin=2cm
-output: pdf_document
 ---
 
 ## Μικρασιατική καταστροφή και Έλληνες πρόσφυγες
