@@ -10,7 +10,7 @@ My email is `johngargalionis(at)gmail(dot)com`, please email me if you have any 
 
 Information for the VCE Greek syllabus can be found on the [VCAA
 website](https://www.vcaa.vic.edu.au/assessment/vce-assessment/past-examinations/Pages/Greek.aspx).
-I would recommend looking through the study design and some past exams.
+I would recommend looking through the study design and some past exams. Key dates for the semester are [here](/vsl-greek/assets/key_dates.pdf).
 
 The [little blue
 book](http://www.greek-language.gr/greekLang/files/document/modern_greek/grammatiki.triantafyllidi.pdf)
